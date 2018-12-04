@@ -1,0 +1,17 @@
+#executable
+tokenpedia-ledger
+
+#log dir
+var/
+
+#vscode
+.vscode/
+
+#docs
+docs/api.html
+
+#debug
+debug
+
+#executable
+main
