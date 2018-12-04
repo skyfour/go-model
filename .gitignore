@@ -15,3 +15,6 @@ debug
 
 #executable
 main
+
+.idea/
+
